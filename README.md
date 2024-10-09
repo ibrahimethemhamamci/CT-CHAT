@@ -62,7 +62,7 @@ The VQA dataset has been derived from the CT-RATE data using the Llama 3.1 80B m
 If you use CT-CHAT or our VQA dataset in your research, please cite [our paper](https://arxiv.org/abs/2403.17834). Additionally, if you utilize the VQA dataset, we kindly request that you also cite the [RadGenome paper](https://arxiv.org/abs/2404.16754), as it includes a subset of data from RadGenome Chest CT.
 
 ## License
-We are committed to fostering innovation and collaboration in the research community. To this end, all elements of CT-CLIP are released under a [Creative Commons Attribution (CC-BY-NC-SA) license](https://creativecommons.org/licenses/by-nc-sa/4.0/). This licensing framework ensures that our contributions can be freely used for non-commercial research purposes, while also encouraging contributions and modifications, provided that the original work is properly cited and any derivative works are shared under similar terms.
+We are committed to fostering innovation and collaboration in the research community. To this end, all elements of CT-RATE, CT-CLIP, and CT-CHAT are released under a [Creative Commons Attribution (CC-BY-NC-SA) license](https://creativecommons.org/licenses/by-nc-sa/4.0/). This licensing framework ensures that our contributions can be freely used for non-commercial research purposes, while also encouraging contributions and modifications, provided that the original work is properly cited and any derivative works are shared under similar terms.
 
 
 
