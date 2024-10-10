@@ -73,7 +73,7 @@ We are committed to fostering innovation and collaboration in the research commu
 
 
 ## Acknowledgements
-We would like to express our sincere gratitude to the following works, whose contributions were invaluable to our research. Our VQA dataset includes a subset of data from [RadGenome Chest CT](https://arxiv.org/abs/2404.16754). Additionally, our CT-CHAT model is a 3D adaptation of the [LLaVA](https://arxiv.org/pdf/2304.08485) model for CT volumes. We are deeply appreciative of these researchers for their outstanding open-source contributions. If you use our models or code in your work, we kindly ask that you also cite these foundational works to acknowledge their impact.
+We would like to express our sincere gratitude to the following works, whose contributions were invaluable to our research. Our VQA dataset includes a subset of data from [RadGenome Chest CT](https://arxiv.org/abs/2404.16754). Additionally, our CT-CHAT model is a 3D adaptation of the [LLaVA](https://arxiv.org/pdf/2304.08485) model for CT volumes. We are deeply appreciative of these researchers for their outstanding open-source contributions. If you use our VQA data or CT-CHAT model in your work, we kindly ask that you also cite the related works to acknowledge their impact.
 
 
 
