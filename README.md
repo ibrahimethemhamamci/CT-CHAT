@@ -2,10 +2,10 @@
 
 Welcome to the official repository for **CT-CHAT**, a cutting-edge visual-language foundation model designed specifically for 3D chest CT volumes. CT-CHAT provides an open-source codebase and pre-trained models, utilizing [CT-CLIP](https://github.com/ibrahimethemhamamci/CT-CLIP) and a VQA (Visual Question Answering) dataset adapted from [CT-RATE](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE), making it accessible to researchers worldwide. The VQA dataset and model weights are available via the [HuggingFace repository](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE).
 
-<video width="640" height="360" controls>
-  <source src="video/CTCHAT-demo.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="figures/CTCHAT-demo.gif" width="100%">
+</p>
+
 
 
 ## System Requirements
