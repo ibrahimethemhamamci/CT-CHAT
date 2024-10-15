@@ -54,10 +54,10 @@ python -m llava.serve.model_worker --host 0.0.0.0 --controller http://localhost:
 
 We offer pre-trained models for several LLMs, trained on the VQA dataset described in our paper. You can download them from the links below:
 
-- **CT-CHAT Llama 3.1 70B**: [Download Here](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)
-- **CT-CHAT Llama 3.1 8B**: [Download Here](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)
-- **CT-CHAT Vicuna**: [Download Here](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)
-- **CT-CHAT Mistral**: [Download Here](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)
+- **CT-CHAT (Llama 3.1 70B)**: [Download Here](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)
+- **CT-CHAT (Llama 3.1 8B)**: [Download Here](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)
+- **CT-CHAT (Vicuna)**: [Download Here](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)
+- **CT-CHAT (Mistral)**: [Download Here](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)
 
 ## VQA Dataset
 
