@@ -40,7 +40,7 @@ To train the model, follow the provided scripts. It's crucial to run the trainin
 
 ## Inference
 
-For inference, refer to the [serve scripts](llava/serve). To perform CLI-based inference, the validation data must first be encoded similarly to the training data. After encoding, adjust the required paths in the CT-CHAT validation scripts for CLI inference. After calculating latent embeddings, inference with A100 GPUs is expected to be 30-40 tokens/s for Llama 70B, for Llama 8B model, it is expected to be in 90-100 tokens/s.
+For inference, refer to the [serve scripts](llava/serve). To perform CLI-based inference, the validation data must first be encoded similarly to the training data. After encoding, adjust the required paths in the CT-CHAT validation scripts for CLI inference. After calculating latent embeddings, inference with A100 GPUs is expected to be 5-10 tokens/s for Llama 70B, for Llama 8B model, it is expected to be in 10-20 tokens/s.
 
 For GUI-based inference, run the following commands:
 
